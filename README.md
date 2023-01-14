@@ -22,3 +22,6 @@ tools
 3. [VSCodeIDE]
 4. [GitCLI]
 
+____________
+library used
+Flask,sklearn,pandas,numpy,matplotlib
