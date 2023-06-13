@@ -27,3 +27,13 @@ _______________________________-
 A decent UI is also made (tested in postman) for the user to just enter the values for the required parameters and then the predicted output is shown.
 
 future commits will include docker code as well and be depeloyed on netlify.
+
+output 1 
+![mymlpic](https://github.com/akjha-17/Lifespan_of_a_Building/assets/112050938/12a342d9-1cc5-4e1a-874c-ec0e650342d9)
+
+output 2
+![image](https://github.com/akjha-17/Lifespan_of_a_Building/assets/112050938/b30307a8-5b47-4827-a0c3-c48e76f03b3a)
+
+postman testing
+![image](https://github.com/akjha-17/Lifespan_of_a_Building/assets/112050938/9dd657c7-a5ea-49fc-8f94-33ecb68687ee)
+
