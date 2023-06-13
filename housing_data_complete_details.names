@@ -1,0 +1,46 @@
+1. Title: Building Collapse Preddiction Values
+
+2. Sources:
+	
+   (a) Origin:  This dataset is inspired from the StatLib library which is
+                maintained at Carnegie Mellon University.
+   (b) Creator:  Harrison, D. and Rubinfeld, D.L. 'Hedonic prices and the 
+                 demand for clean air', J. Environ. Economics & Management,
+                 vol.5, 81-102, 1978.
+
+3. Past Usage:
+   -   Used in Belsley, Kuh & Welsch, 'Regression diagnostics ...', Wiley, 
+       1980.   N.B. Various transformations are used in the table on
+       pages 244-261.
+
+4. Relevant Information:
+
+   The factors responsible for building collapse
+
+5. Number of Instances: 506
+
+6. Number of Attributes: 13 continuous attributes (including "class" attribute "MEDV")
+7. Attribute Information:
+
+    1. CRIM      capacity rate by town
+    2. ZN        proportion of residential land zoned for lots over 
+                 25,000 sq.ft.
+    3. INDUS     proportion of maintenance for acres per town
+    4. CHAS      Earthquake dummy variable (= 1 if tract bounds 
+                 river; 0 otherwise)
+    5. NOX       purification of air (nitric oxides  (ppm*10))
+    6. RM        average number of rooms per block                               
+    7*. AGE       proportion of no. of times maintaince has hapened  to  age(maintaince:age)
+    8. DIS       weighted distances to healthcare centres
+    9. RAD       Builderexperiance
+    10. TAX      Tax paid by builder
+    11. PTRATIO  chance of normal day /natural calamity chance
+    12. B        Breakage status
+    13. LSTAT    maintenance status
+    14. MEDV     Median value of probabilty of a structural damage
+    
+
+8. Missing Attribute Values:  None.
+
+
+
